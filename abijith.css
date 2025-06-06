@@ -1,0 +1,194 @@
+.main-container{
+    
+   
+}
+.abjith-photo-container{
+   width:50vw;
+   height:100vh
+  border-radius:50px;
+  
+}
+.abijith-discription-container{
+    width:50vw;
+    height:100vh
+ 
+}
+.main-heading {
+    background: linear-gradient(to right, #e1f836, #2df677, #2EC4B2, #1f26ed);
+     background-size: 50%;
+    background-clip: text;
+      -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+h1{
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.nav-bg{
+    background-color: #b8fbf3;
+}
+.section-container{
+    height:100vh;
+    width:70vw
+}
+.image-1{
+    border-radius: 10px;
+    text-align: center;
+}
+.discription-paragarph{
+   
+    font-size:25px;
+    font-weight:500;
+    color:grey;
+}
+h2{
+   font-family: "Roboto";
+    font-weight: bold;
+    font-size:35px;  
+     
+}
+.iamge-container2{
+    width:30vw;
+    
+}
+.second-container{
+    border-radius: 15px;
+}
+.thrid-container{
+    height:50vh;
+    background-color: rgb(229, 229, 229);
+    border-radius: 15px;
+}
+.vb{
+    font-family: "roboto";
+    font-weight: 700;
+    color:#2df677;
+}
+.result-heading{
+     background: linear-gradient(to right, #5bec5b, #4087f0, #87f7a8, #e1fe07);
+     background-size: 100%;
+    background-clip: text;
+      -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.four-container{
+   height:70vh;
+}
+.underli{
+    text-decoration: underline;
+}
+.four-heading{
+    font-size:22px;
+    font-family: "roboto";
+    font-weight: bold;
+    text-decoration: underline;
+}
+.four-paragarph{
+    font-size:15px;
+    font-weight: 700;
+
+}
+.container1{
+    width:23vw;
+    height:25vh;
+    border-radius: 10px;
+    color:white;
+    text-align: center;
+    background-size: cover;
+  
+    background-image: url("https://img.freepik.com/free-photo/programming-background-collage_23-2149901777.jpg?ga=GA1.1.1697017442.1726662171&semt=ais_items_boosted&w=740 ");
+transition: transform 0.2s ease;
+}
+.container1:hover {
+    transform: scale(1.03);
+}
+
+.container2{
+    width:23vw;
+    height:25vh;
+    border-radius: 10px;
+    color:white;
+    text-align: center;
+    background-size: cover;
+    background-image: url("https://img.freepik.com/free-vector/gradient-ui-ux-elements-background_23-2149056159.jpg?ga=GA1.1.1697017442.1726662171&semt=ais_items_boosted&w=740");
+transition: transform 0.2s ease;
+}
+.container2:hover {
+    transform: scale(1.03);
+}
+
+.lear-paragarph{
+     font-size:8px;
+}
+.five-container{
+    height:90vh;
+
+}
+.future-1{
+    height:50vh;
+    width:19vw;
+    border-radius: 12px;
+    background-size: cover;
+    background-image: url("https://img.freepik.com/free-photo/programming-background-collage_23-2149901770.jpg?ga=GA1.1.1697017442.1726662171&semt=ais_items_boosted&w=740");
+}
+.future-2{
+    height:50vh;
+    width:19vw;
+    border-radius: 12px;
+    background-size: cover;
+    background-image: url("https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?ga=GA1.1.1697017442.1726662171&semt=ais_items_boosted&w=740");
+transition: transform 0.2s ease;
+}
+.future-2:hover {
+    transform: scale(1.03);
+}
+.future-3{
+    height:50vh;
+    width:19vw;
+    border-radius: 12px;
+    background-size: cover;
+    background-image: url("https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?ga=GA1.1.1697017442.1726662171&semt=ais_items_boosted&w=740");
+}
+.future-4{
+    height:50vh;
+    width:19vw;
+    border-radius: 12px;
+    background-size: cover;
+    background-image: url("https://img.freepik.com/free-photo/website-hosting-concept-with-bright-light_23-2149406783.jpg?ga=GA1.1.1697017442.1726662171&semt=ais_items_boosted&w=740");
+transition: transform 0.2s ease;
+}
+.future-4:hover {
+    transform: scale(1.03);
+}
+.future-5{
+    height:50vh;
+    width:19vw;
+    border-radius: 12px;
+    background-size: cover;
+    background-image: url("https://img.freepik.com/free-photo/online-cloud-data-storage-concept-cloudscape-digital-online-server-global-network-business-web-database-backup-computer-private-infrastructure-technology_90220-1345.jpg?ga=GA1.1.1697017442.1726662171&semt=ais_items_boosted&w=740");
+}
+.sub-six-contaner{
+    width:40vw;
+}
+.sub-six2-container{
+    width:60vw;
+}
+.name-conayiner{
+    height:7vh;
+    width:50vw;
+    background-color:rgb(214, 213, 213) ;
+    
+    border-radius: 8px;
+}
+.para{
+font-size: 19px;
+    font-family: "roboto";
+
+}
+.meas-conayiner{
+     height:13vh;
+    width:50vw;
+    background-color:rgb(227, 224, 224) ;
+    
+    border-radius: 8px;
+}
